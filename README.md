@@ -1,2 +1,8 @@
-# multi_window_vulkan
-Multi window vulkan test project
+# multi window vulkan
+Multi window vulkan test project using glnext
+
+<div align="center">
+
+[![screenshot](assets/screenshot.png)](#)
+
+</div>
